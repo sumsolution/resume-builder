@@ -2,15 +2,14 @@
   "name": "resume-builder",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {
-  },
+  "scripts": {},
   "private": true,
-  "dependencies": {
-  },
   "devDependencies": {
-    "nx": "15.5.0",
+    "@nrwl/angular": "^15.5.1",
+    "@nrwl/nest": "^15.5.1",
     "@nrwl/workspace": "15.5.0",
-    "typescript": "~4.8.2",
-    "prettier": "^2.6.2"
+    "nx": "15.5.0",
+    "prettier": "^2.6.2",
+    "typescript": "~4.8.2"
   }
 }
